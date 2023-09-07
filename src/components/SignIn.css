@@ -1,0 +1,41 @@
+.SignIn
+{
+    background-image: url(https://img.freepik.com/premium-vector/horizontal-background-with-smooth-gradient-vector-illustration_522680-329.jpg);
+    background-size: cover;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+}
+
+.loginForm
+{
+    background-color: #ffffff28;
+    padding: 20px;
+    border: 1px solid rgb(83, 68, 68);
+    border-radius: 1px;
+}
+
+.loginForm2
+{
+    
+    background-color: #ffffff1a;
+    padding: 20px;
+    margin-top: 5px;
+    border: 1px solid rgb(83, 68, 68);
+    border-radius: 1px;
+
+}
+
+#login-btn
+{
+    background-color: rgb(27, 27, 237);
+    border: none;
+    border-radius: 3px;
+    color: white;
+    font-weight: bold;
+    padding: 5px 10px;
+    
+    cursor: pointer;
+    margin-top: 8px;
+}
